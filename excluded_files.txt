@@ -1,0 +1,13 @@
+*.wav
+*.mp3
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.obj
+*.dir
+*.bin
+*.exe
+build
+x64
+CMakeCache.txt
